@@ -1,5 +1,32 @@
-Social media pack for #WordPress 5.5 — September 2020
+# Social media pack for #WordPress 5.5
+*September 2020*
 
+**Table of contents**
+
+* [Help amplify the benefits of the WordPress 5.5 release](#help-amplify-the-benefits-of-the-wordpress-55-release)
+* [Twitter](#twitter)
+  * [Block Directory](#block-directory)
+  * [Auto-Update](#auto-update)
+  * [Lazy-loading](#lazy-loading)
+  * [Gutenberg Update](#gutenberg-update)
+  * [General WP 5.5](#general-wp-55)
+* [Facebook](#facebook)
+  * [XML Sitemaps](#xml-sitemaps)
+  * [Image Editor](#image-editor)
+  * [Auto-Update](#auto-update-1)
+  * [Lazy-loading](#lazy-loading-1)
+  * [General WP 5.5](#general-wp-55-1)
+  * [Gutenberg Updates](#gutenberg-updates)
+* [LinkedIn](#linkedin)
+  * [Block Patterns](#block-patterns)
+  * [Auto-Update](#auto-updates)
+  * [Image Editor](#image-editor-1)
+  * [Gutenberg Updates](#gutenberg-updates-1)
+  * [General WP 5.5](#general-wp-55-2)
+  * [XML Sitemaps](#xml-sitemaps-1)
+  * [Lazy-loading](#lazy-loading-1)
+  
+  
 ## Help amplify the benefits of the WordPress 5.5 release
 
 ### How to use these messages
@@ -111,7 +138,7 @@ Read More: https://wordpress.org/support/wordpress-version/version-5-5/
 
 Read More: https://wordpress.org/support/wordpress-version/version-5-5/ 
 
-### Lazy- Loading
+### Lazy-loading
 
 6. A fast website makes users happy. If you use many images on your website, your pages may load slower, making your users unhappy. To solve this issue, WordPress 5.5 introduced a new feature called lazy-loading. It makes it possible for the images to load only when a user scrolls them into view. The result? Your website loads faster, and your users save battery life, data usage, and get a better user experience! Read More: https://wordpress.org/support/wordpress-version/version-5-5/  
 
