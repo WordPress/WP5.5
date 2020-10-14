@@ -71,7 +71,7 @@ https://wordpress.org/support/article/debugging-in-wordpress/
 
 
 
-## SECTION 2. IMAGE EDITOR
+## SECTION 2. Image editor
 ### How can I zoom an image in Block Editor?
 You can achieve it by using the zoom tool in the Image block.
 Below are the steps to zoom an image:
