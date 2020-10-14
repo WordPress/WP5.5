@@ -1,3 +1,13 @@
+**Table of contents**
+
+* [Auto-update](#section-1-auto-update)
+* [Image editor](#2-section-image-editor)
+* [Block Directory Repository](#section-3-block-directory-repository)
+* [Block Patterns](#section-4-block-patterns)
+* [Gutenberg Update](#section-5-gutenberg-update)
+* [Lazy-loading](#section-6-lazy-loading)
+* [XML Sitemaps](#section-7-xml-sitemaps)
+
 ## SECTION 1. Auto-update
 ### How will auto-updates benefit my site?
 
