@@ -261,9 +261,9 @@ Websites can have several sitemaps and they can be indexed simultaneously. In ca
 ## SECTION 8. jQuery
 After updating to WordPress 5.5 I have issues regarding scripts and unexpected behavior of elements on my site. What do I need to do?
 ### If you are experiancing isuses such as:
-* I updated to WordPress 5.5 and now something went wrong with scripts on my site.
-* I updated to WordPress 5.5 and now I cannot save anything in the admin.
-* I updated to WordPress 5.5 and sliders on my pages don’t work.
+* I updated to WordPress 5.5 and now something went wrong with scripts on my site
+* I updated to WordPress 5.5 and now I cannot save anything in the admin
+* I updated to WordPress 5.5 and sliders on my pages don’t work
 * ETC
 The WordPress.org core team has put together a plugin to re-enable the first file that was removed in 5.5 to help mitigate these issues and give the plugin and theme authors time to perform the needed updates. 
 This plugin is called “enable jQuery migrate helper” and can be found at: 
@@ -290,7 +290,7 @@ Please note that not all errors on your site may have developed or can be solved
 We highly recommend you preemptively check your current sites using the jQuery update test plugin: https://wordpress.org/plugins/wp-jquery-update-test/  
 
 To test your site ready for jQuery:
-- Please make sure you first install the jQuery Migrate plugin: https://wordpress.org/plugins/enable-jquery-migrate-helper/
+- Please make sure you first install the "Enable jQuery Migrate Helper" plugin: https://wordpress.org/plugins/enable-jquery-migrate-helper/
 - Then install the jQuery update text plugin: https://wordpress.org/plugins/wp-jquery-update-test/ 
 - Now you need to configure the plugin by going to Plugins -> Test jQuery Updates 
 - In the Test jQuery Updates plugin, set the options as below:
