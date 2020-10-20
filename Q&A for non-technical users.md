@@ -7,6 +7,8 @@
 * [Gutenberg Update](#section-5-gutenberg-update)
 * [Lazy-loading](#section-6-lazy-loading)
 * [XML Sitemaps](#section-7-xml-sitemaps)
+* [jQuery](#section-8-jquery)
+
 
 ## SECTION 1. Auto-update
 ### How will auto-updates benefit my site?
