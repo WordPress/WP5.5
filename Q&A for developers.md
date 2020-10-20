@@ -390,3 +390,7 @@ This will help you detect any errors that may happen during the jQuery update pl
 
 Not loading jQuey Migrate by default could result in some broken sites. This will depend on the plugin and theme JavaScript code on the website. It is not expected that users will have issues, but there may be a number of plugins and themes which encounter some issues that will need resolving.
 
+2. In the WordPress 5.5 update, a migration tool known as jquery-migrate is no longer enabled by default. This may lead to unexpected behaviors in some themes or plugins which are running run older code. 
+
+https://wordpress.org/plugins/enable-jquery-migrate-helper/
+This plugin serves as a temporary solution, enabling the migration script for your site to give your plugin and theme authors some more time to update,and test their code. To install the plugin: upload it to your plugins folder, usually wp-content/plugins/ activate the plugin on the plugin screen The plugin should handle the rest automatically for you. 
